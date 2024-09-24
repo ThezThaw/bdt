@@ -1,0 +1,1 @@
+"C:\kafka_2.11-2.4.1\bin\windows\connect-standalone.bat" "C:/kafka_2.11-2.4.1/config/connect-standalone.properties" "D:\usa master application\Compus\Courses\5_BDT\Project\EnvStart\Config\http-connector.properties"

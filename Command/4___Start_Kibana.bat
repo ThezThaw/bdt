@@ -1,0 +1,1 @@
+"D:\usa master application\Compus\Courses\5_BDT\Project\kibana-6.8.13-windows-x86_64\bin\kibana.bat"
